@@ -1,8 +1,8 @@
-var button = document.querySelector('.show-cat');
+var button = document.querySelector(".show-cat");
 //console.log("button");
 
 
-var cat = document.querySelector('cat');
+var cat = document.querySelector(".cat");
 //console.log("cat");
 
 button.addEventListener("click", function () {
